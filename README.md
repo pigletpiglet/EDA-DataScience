@@ -1,2 +1,2 @@
 # EDA-DataScience
-Repository untuk EDA/Data Science
+Repository Pengumpulan Tugas 1 EDA 
